@@ -85,7 +85,7 @@ Cloud computing is a model for delivering IT services over the internet, enablin
 - Human resources applications: SaaS human resources applications can help businesses manage their employee data, including tracking employee performance, managing payroll, and handling benefits administration.
 
 
-![cc](https://raw.githubusercontent.com/desaisamarjeet08/Cloud-Computing-Concepts/main/cc.png)
+![cc]()
 
 
 ## Benefits of Cloud Computing
