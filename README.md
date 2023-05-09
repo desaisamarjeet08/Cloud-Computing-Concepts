@@ -85,10 +85,7 @@ Cloud computing is a model for delivering IT services over the internet, enablin
     - Accounting and financial applications: SaaS accounting and financial applications can help businesses manage their finances, including invoicing, billing, and financial reporting.
     - Human resources applications: SaaS human resources applications can help businesses manage their employee data, including tracking employee performance, managing payroll, and handling benefits administration.
 
-
-![cloud computing servic model](https://raw.githubusercontent.com/desaisamarjeet08/Cloud-Computing-Concepts/main/cc.png)
-
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="100" height="100">
+<img src="https://raw.githubusercontent.com/desaisamarjeet08/Cloud-Computing-Concepts/main/cc.png"  width="90" height="160">
 
 ## Benefits of Cloud Computing
 Cloud computing has numerous advantages.
