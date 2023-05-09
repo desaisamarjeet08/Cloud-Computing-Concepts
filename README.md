@@ -87,7 +87,7 @@ Cloud computing is a model for delivering IT services over the internet, enablin
 
 
 
-                    ![cc](./cc.png)
+                    ![cc](https://raw.githubusercontent.com/desaisamarjeet08/Cloud-Computing-Concepts/main/cc.png)
 
 
 ## Benefits of Cloud Computing
