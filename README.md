@@ -1,5 +1,5 @@
 
-# Cloud Computing Concept
+# Cloud Computing Concepts
 
 *What is Cloud?*
 
